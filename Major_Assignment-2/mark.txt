@@ -1,0 +1,16 @@
+Math_mark,CS_mark,result
+4,3,result-Fail
+4,4,result-Fail
+3,3,result-Fail
+3,4,result-Fail
+6,7,result-Pass
+7,6,result-Pass
+7,7,result-Pass
+7,8,result-Pass
+8,8,result-Pass
+8,7,result-Pass
+5,5,result-Fail
+4,5,result-Fail
+5,4,result-Fail
+8,8,result-Pass
+9,9,result-Pass
